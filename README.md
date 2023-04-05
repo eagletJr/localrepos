@@ -14,4 +14,5 @@ You'll find that you actually recevie an error. Since we've created the reposito
   - Typing "git remote -v" will tell you all the remote repositories connected to that current repo
 - Now you can use git push as normal
   - Use "git push -u ..." to set the default path so you only need to type "git push"
-  
+
+Sometimes I need to use the command "git push origin master" and sometimes I need to use "git push origin main". I can never tell which I need
