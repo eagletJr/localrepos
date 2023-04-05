@@ -16,3 +16,7 @@ You'll find that you actually recevie an error. Since we've created the reposito
   - Use "git push -u ..." to set the default path so you only need to type "git push"
 
 Sometimes I need to use the command "git push origin master" and sometimes I need to use "git push origin main". I can never tell which I need
+
+## Local Development
+
+1. Open index.html in your browser
